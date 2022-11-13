@@ -6,6 +6,7 @@ public class Sum {
         times.result();
         int a=25;
         int b=35;
+        int c=25;
         int sum=a+b;
         System.out.println(sum);
     }
